@@ -1,6 +1,6 @@
 <h1 align="center">
     <a href="https://amplication.com/#gh-dark-mode-only">
-    <img src="https://cdn.aimware.net/asset/img/logo/main-standards.svg">
+    <img src="https://cdn.discordapp.com/attachments/1178099681046306837/1218071218591240192/svgexport-1.jpg?ex=66065439&is=65f3df39&hm=7552a553b62cbb364ee6a675aed2dbeaf666575cb10fe2fac30b6cb4dcadf824&">
     </a>
 </h1>
 
