@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <i align="center">Instantly generate production-ready Node.js backend apps 🚀</i>
+  <i align="center">Best Lua on the Aimware Market 🆒 🚀</i>
 </p>
 
 <h4 align="center">
